@@ -13,7 +13,7 @@ Atualmente sou programador Front-end mas contantemente estou me aprofundando em 
 
 ## 💼 Experiência
 
-Tenho experiência com Ract e typescript, desenvolvi alguns projetos mais robustos como o food commerce. O food commerce, é um site completo de pedidos de comida, onde os usuários podem escolher seus lanches, adicioná-los ao carrinho, preencher os dados de entrega e pagamento e finalizar a compra com um método de pagamento utilizando uma API do AsasTodos os dados, incluindo informações do usuário, endereço, detalhes da compra, etc., são salvos em um banco de dados. 
+Tenho experiência com Ract e typescript, desenvolvi alguns projetos mais robustos como o food commerce. O food commerce, é um site completo de pedidos de comida, onde os usuários podem escolher seus lanches, adicioná-los ao carrinho, preencher os dados de entrega e pagamento e finalizar a compra com um método de pagamento utilizando uma API do Asas. Todos os dados, incluindo informações do usuário, endereço, detalhes da compra, etc., são salvos em um banco de dados. 
 Atualmente estou trabalhando em um projeto que será meu portfolio, em que nele mostrarei todos os meus projetos e meu aprendizado. 
 
 ## 📫 Como entrar em contato comigo
