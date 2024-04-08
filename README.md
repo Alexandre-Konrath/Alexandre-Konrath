@@ -9,7 +9,7 @@ Cursando Superior em Análise e Desenvolvimento de Sistemas na Anhanguera. Sou a
 
 ## 🌱 Atualmente aprendendo
 
-Atualmente sou programador Front-end mas contantemente estou me aprofundando em Back-end, aprendendo coisas novas, criando projetos interessantes e, é claro, cometendo alguns erros de código no processo!
+Atualmente sou programador Front-end mas contantemente estou me aprofundando em Back-end, aprendendo coisas novas, criando projetos e, é claro, cometendo alguns erros de código no processo!
 
 ## 💼 Experiência
 
